@@ -6,7 +6,33 @@ Hi 👋 I'm Muhammad Rijal
 Full Stack Developer • Laravel Enthusiast • Cyber Security Learner
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrijal)
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://instagram.com/USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="https://twitter.com/USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="45" />
+</a>
+
+<a href="https://discord.gg/USERNAME" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=discord" height="45" />
+</a>
+
+<a href="mailto:email@example.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+<a href="https://yourwebsite.com">
+<img align="center" src="https://skillicons.dev/icons?i=wordpress" height="45" />
+</a>
+</p>
 
 ---
 
@@ -121,11 +147,3 @@ Snake Animation
 | 📖 Laravel CRUD | Backpack Admin |
 
 ---
-
-# 🤝 Connect
-
-LinkedIn
-
-Email
-
-Portfolio

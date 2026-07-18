@@ -6,11 +6,7 @@ Hi 👋 I'm Muhammad Rijal
 Full Stack Developer • Laravel Enthusiast • Cyber Security Learner
 </p>
 
-<p align="center">
-
-Typing Animation Here
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrijal)
 
 ---
 

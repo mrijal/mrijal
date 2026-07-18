@@ -8,29 +8,17 @@ Full Stack Developer • Laravel Enthusiast • Cyber Security Learner
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<p align="center">
+<a href="https://linkedin.com/in/mdrjl07" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="20" />
 </a>
 
-<a href="https://instagram.com/USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+<a href="https://instagram.com/madrjl" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="20" />
 </a>
 
-<a href="https://twitter.com/USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="45" />
-</a>
-
-<a href="https://discord.gg/USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=discord" height="45" />
-</a>
-
-<a href="mailto:email@example.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-<a href="https://yourwebsite.com">
-<img align="center" src="https://skillicons.dev/icons?i=wordpress" height="45" />
+<a href="mailto:mrijal110@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="20" />
 </a>
 </p>
 

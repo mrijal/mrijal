@@ -1,137 +1,125 @@
-<h1 align="center">
-Hi 👋 I'm Muhammad Rijal
-</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Rijal</h1>
 
 <p align="center">
-Full Stack Developer • Laravel Enthusiast • Cyber Security Learner
+  <b>Full Stack Developer</b> • Laravel Enthusiast • Cyber Security Learner
 </p>
 
-## 🌐 Connect with Me
-
 <p align="center">
-<a href="https://linkedin.com/in/mdrjl07" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="20" />
-</a>
-
-<a href="https://instagram.com/madrjl" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="20" />
-</a>
-
-<a href="mailto:mrijal110@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="20" />
-</a>
+  <a href="https://linkedin.com/in/mdrjl07">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+  </a>
+  <a href="https://instagram.com/madrjl">
+    <img src="https://skillicons.dev/icons?i=instagram" height="32" />
+  </a>
+  <a href="mailto:mrijal110@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+### 👨🏻‍💻 About Me
 
-💼 Full Stack Developer
-
-🎓 Informatics Student
-
-🔐 Interested in Secure Coding & Application Security
-
-🌱 Currently learning
-
-- Laravel
-- React
-- Next.js
-- Docker
-- OWASP
-- SAST
+- 💼 Full Stack Developer from Indonesia 🇮🇩
+- 🎓 Informatics Student
+- 🔐 Passionate about Secure Coding & Application Security
+- 🌱 Currently learning **OWASP, Docker, Next.js, SAST**
+- 🚀 Open to collaborating on open-source and security-related projects
 
 ---
 
-# 🛠 Tech Stack
+### 🛠 Tech Stack
 
-## Backend
+#### Languages
 
-Laravel
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,java" />
+</p>
 
-PHP
+#### Backend
 
-Node.js
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
+</p>
 
-Express
+#### Frontend
 
-## Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,jquery" />
+</p>
 
-React
+#### Database
 
-JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
 
-TypeScript
+#### Tools
 
-Tailwind
-
-Bootstrap
-
-## Database
-
-MySQL
-
-PostgreSQL
-
-SQLite
-
-## DevOps
-
-Git
-
-Docker
-
-GitHub Actions
-
-Linux
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman" />
+</p>
 
 ---
 
-# 🔥 Current Projects
+### 🚀 Current Projects
 
-🔒 Secure Coding Analyzer
-
-💰 Finance Bot
-
-🤖 AI Islamic Story Animation
+- 🔒 **Secure Coding Analyzer** — Static Application Security Testing (SAST) for PHP
+- 💰 **Finance Bot** — Telegram Bot integrated with Google Sheets
+- 🤖 **AI Islamic Story Animation** — AI-generated educational storytelling videos
 
 ---
 
-# 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
-Stats Widget
-
-Language Widget
-
----
-
-# 📈 Contribution Graph
-
-Activity Graph
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
-# 🏆 Achievements
+### 📈 Contribution Graph
 
-GitHub Trophy
-
----
-
-# 🐍 Contribution Snake
-
-Snake Animation
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-# 📌 Featured Projects
+### 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 📌 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🔒 Secure Coding Analyzer | Web-based SAST for PHP |
-| 💰 Finance Bot | Telegram Bot + Google Sheets |
-| 🚗 Smart Gate | ESP32 + OpenCV + MQTT |
-| 🛒 Marketplace | Laravel + React |
-| 🌐 Portfolio | Personal Website |
-| 📖 Laravel CRUD | Backpack Admin |
+| 🔒 Secure Coding Analyzer | Static Application Security Testing for PHP |
+| 💰 Finance Bot | Telegram + Google Sheets Automation |
+| 🚗 Smart Gate | ESP32 + MediaPipe + MQTT |
+| 🛒 Marketplace | Laravel + React E-Commerce |
+| 🌐 Portfolio | Personal Portfolio Website |
+| 📖 Laravel CRUD | Backpack Admin Panel |
 
 ---
+
+### 📫 Let's Connect
+
+<p>
+<a href="https://linkedin.com/in/mdrjl07"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://instagram.com/madrjl"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="mailto:mrijal110@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>

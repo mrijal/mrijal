@@ -73,8 +73,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrijal&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijal&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrijal&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mrijal&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/mrijal/mrijal/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
